@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eloi Dieme</h1>
 <h3 align="center">A passionate engineering student at CentraleSupélec (France).</h3>
 
-- 👨‍💻 More about me on my personal website: [eloi-dieme.com](https://eloi-dieme.com/)
-- 📁 My resumes: [French version](https://eloi-dieme.io/resume_fr/), [English version](https://eloi-dieme.io/resume_en/)
+- 👨‍💻 More about me on my personal website: [eloi-dieme.com](https://eloidieme.com/)
+- 📁 My resumes: [French version](https://drive.google.com/file/d/1YlyyfoMsAxT-LLqzPOoeEmYIUWsD3PnL/view?usp=share_link), [English version](https://drive.google.com/file/d/18mdDwdNC3vzTJ07pJ1S6yyyJa3w3j8fj/view?usp=share_link)
 - 📫 How to reach me: **eloi.dieme@student-cs.fr**
 
 <h3 align="left">Connect with me:</h3>
