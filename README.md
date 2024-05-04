@@ -2,7 +2,7 @@
 <h3 align="center">A passionate engineering student at CentraleSupélec (France).</h3>
 
 - 👨‍💻 More about me on my personal website: [eloidieme.com](https://eloidieme.com/)
-- 📁 My resumes: [French version](https://drive.google.com/file/d/1YlyyfoMsAxT-LLqzPOoeEmYIUWsD3PnL/view?usp=share_link), [English version](https://drive.google.com/file/d/18mdDwdNC3vzTJ07pJ1S6yyyJa3w3j8fj/view?usp=share_link)
+- 📁 My resumes: [French version](https://drive.google.com/file/d/1lvxG1r2G8e9NAWlmXHaTTWw82DLTol_p/view?usp=drive_link), [English version](https://drive.google.com/file/d/1WOKaIAFD_ZgL6dh1_NYlTf2qKmAcdAWD/view?usp=drive_link)
 - 📫 How to reach me: **eloi.dieme@student-cs.fr**
 
 <h3 align="left">Connect with me:</h3>
